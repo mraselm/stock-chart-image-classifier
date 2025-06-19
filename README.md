@@ -88,7 +88,3 @@ pip install tensorflow numpy matplotlib scikit-learn
 Rasel Mia  
 MSc Student, Business Intelligence  
 Aarhus University  
-
-## License
-
-This project is licensed under the MIT License.
