@@ -4,7 +4,7 @@ A Convolutional Neural Network (CNN) built using TensorFlow/Keras to classify ca
 
 ## Project Overview
 
-This project is part of a deep learning course (ML4BI2). The objective is to create a robust image classification model that predicts stock direction based on candlestick charts. It includes multiple training stages, model tuning, and final evaluation on a test set.
+The objective is to create a robust image classification model that predicts stock direction based on candlestick charts. It includes multiple training stages, model tuning, and final evaluation on a test set.
 
 ## Dataset
 
